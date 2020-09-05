@@ -20,7 +20,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-#
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikopalomares&layout=compact&count_private=true)
