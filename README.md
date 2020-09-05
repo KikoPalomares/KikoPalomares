@@ -6,3 +6,8 @@
 - 📫 How to reach me on [Instagram](https://instagram.com/kikopalomares)
 - ⚡ Fun fact: I make memes on Instagram
 
+#
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kikopalomares&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikopalomares&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
