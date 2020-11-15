@@ -6,6 +6,9 @@
 - 📫 You can reach me on [Instagram](https://instagram.com/kikopalomares)
 - 🤡 Fun fact: I make memes on Instagram
 
+## 🏆📈👀 Stats!!
+![KikoSenpai Stats](https://github-readme-stats.vercel.app/api?username=KikoPalomares&show_icons=true&theme=vue)
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
