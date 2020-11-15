@@ -7,7 +7,7 @@
 - 🤡 Fun fact: I make memes on Instagram
 
 ## 🏆📈👀 Stats!!
-![KikoSenpai Stats](https://github-readme-stats.vercel.app/api?username=KikoPalomares&show_icons=true&theme=vue)
+![KikoSenpai Stats](https://github-readme-stats.vercel.app/api?username=KikoPalomares&show_icons=true&theme=default)
 
 ## ⚡ Technologies
 
