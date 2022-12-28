@@ -1,7 +1,7 @@
 # Hi. I'm Kiko Palomares
 
 
-- 🔭 I’m currently working on [Psious](https://psious.com/) and [Kiko Palomares Academy](https://kikopalomares.com/)
+- 🔭 I’m currently working on [Amelia Virtual Care](https://ameliavirtualcare.com/) and [Kiko Palomares](https://kikopalomares.com/)
 - 🌱 I make videos on my [Youtube Channel](https://youtube.com/kikopalomares/?sub_confirmation=1)
 - 📫 You can reach me on [Instagram](https://instagram.com/kikopalomares)
 - 🤡 Fun fact: I make memes on Instagram
@@ -19,4 +19,3 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
