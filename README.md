@@ -71,12 +71,8 @@ https://notodoesprogramar.com/
 </a>
 
 ----
-## Koding Beats
+## Cuarzo.dev
 
-"Koding Beats" es la música perfecta para programar. Es totalmente gratuita, incluso para usar en tus directos.
+"Cuarzo.dev" es una newsletter de recursos de programación.
 
-https://kodingbeats.com/
-
-<a href="https://kodingbeats.com/" target="_blank">
-  <img src="https://uploads-ssl.webflow.com/635a43cedfb493f965093248/63629f886d17fc69647a0284_portada_lista_reproduccion_kodingbeats-p-1080.jpg" alt="Koding Beats" width="300px"/>
-</a>
+https://cuarzo.dev/
